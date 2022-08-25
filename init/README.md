@@ -1,18 +1,18 @@
 # Markdown Шпаргалка Українською
 
-[Заголовки]()
-Виділення тексту
-Списки
-Посилання
-Зоображення
-Підсвічування коду та синтаксису
-Примітки
-Таблиці
-Блок з цитатою
-Вбудований HTML
-Горизонтальна лінія
-Перенесення рядків
-Відео YouTube
+[Заголовки](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#заголовки)
+[Виділення тексту](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#виділення-тексту)
+[Списки](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#списки)
+[Посилання](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#посилання)
+[Зоображення](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#зоображення)
+[Підсвічування коду та синтаксису](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#підсвічування-коду-та-синтаксису)
+[Примітки](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#примітки)
+[Таблиці](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#таблиці)
+[Блок з цитатою](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#блок-з-цитатою)
+[Вбудований HTML](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#вбудований-html)
+[Горизонтальна лінія](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#горизонтальна-лінія)
+[Перенесення рядків](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#перенесення-рядків)
+[Відео YouTube](https://github.com/Yuriy-Lapin/oop-lesson-2/tree/main/init#відео-youtube)
 
 # Заголовки
 
